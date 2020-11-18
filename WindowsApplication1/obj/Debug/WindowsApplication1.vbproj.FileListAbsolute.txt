@@ -1,0 +1,934 @@
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Difficulty.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Test.resources
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V2.4\NEA V2.3\NEA V2.2\NEA V2\NEA\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Tests.resources
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Chrome Downloads\NEA V2.6\NEA V2.5\NEA 2.5\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Tests.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.7\NEA\Prototype\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student.resources
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Student.resources
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Tests.resources
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Tests.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Tests.resources
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Documents\A2 CompSci\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V3.6\NEA V3.1\NEA V3.0\NEA V2.8\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Classrooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Classrooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Registration.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+C:\Users\Imon\Desktop\NEA V4.6\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA V4.8\NEA V3.9\NEA V3.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 5.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.test.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 5.8\NEA 5.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 5.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 6.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrollments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 6.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 7.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Search.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Search.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7,7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7.7\WindowsZ CopY\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1 - Copy 6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 7.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Chrome Downloads\NEA 7.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 8.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.5\NEA 8.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 8.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 8.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 8.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.7\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 9.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 8.3\NEA 10.0\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.4\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.4\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 10.5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+\\VS-FSSD-02\StudentHomes\X26756\Downloads\NEA 10.6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 10.8\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminDBoard.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ChangePassword.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Enrolments.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LessonInfo.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Lessons.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rooms.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StudentDBoard.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Subjects.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Teachers.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Students.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TeacherDBoard.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Timetables.resources
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Imon\Desktop\NEA shit\Current NEA\NEA 10.9\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
