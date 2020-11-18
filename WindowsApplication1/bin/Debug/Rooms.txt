@@ -1,0 +1,4 @@
+2CS03,Computer Room,30,31,3
+2CS14,Classroom,30,1,3
+2CS17,Classroom,30,1,3
+2CS06,Classroom,30,1,2
