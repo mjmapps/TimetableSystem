@@ -1,0 +1,55 @@
+﻿Imports System.IO
+Public Class Tests
+    Structure Tests
+        Public TestID As Integer
+        Public TestName As String
+        Public TestType As String
+        Public TestDate As Date
+    End Structure
+    Public Test As New Tests
+
+    Private Sub btnSaveTest_Click(sender As Object, e As EventArgs) Handles btnSaveTest.Click
+        If txtTestName.Text = "" Then 'Presence check
+            MsgBox("Please enter a test name!")
+        Else
+            If Len(txtTestName.Text) > 15 Then 'length check
+                MsgBox("Test name has exceeded maximum length of 15 characters!")
+            Else
+                If (rbALevel.Checked = False) And (rbGCSE.Checked = False) Then 'presence check for radiobuttons
+                    MsgBox("Please pick a course from GCSE or A Level!")
+                Else 'saving starts
+                    Dim sr As New System.IO.StreamReader(Dir$("Tests.txt"), True)
+
+                    Dim StringLine As String = sr.ReadLine()
+                    If rbALevel.Checked = True Then
+                        Test.TestType = "A Level"
+                    Else
+                        Test.TestType = "GCSE"
+                    End If
+                    Test.TestID = 1
+                    While (StringLine <> Nothing)
+                        Test.TestID = Test.TestID + 1
+                        StringLine = sr.ReadLine()
+                    End While
+                    Test.TestName = txtTestName.Text
+                    Test.TestDate = Today()
+                    sr.Close()
+
+                    Dim sw As New System.IO.StreamWriter(Dir$("Tests.txt"), True)
+                    sw.WriteLine(Test.TestID & "," & Test.TestName & "," & Test.TestDate)
+                    MsgBox("saved")
+                    sw.Close()
+                End If
+            End If
+            End If
+
+    End Sub
+
+    Private Sub Tests_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        If Dir$("Tests.txt") = "" Then 'check current project directory for movies.txt
+            Dim sw As New StreamWriter(Application.StartupPath & "\Tests.txt", True)    'This makes sure there is actually a database to enter/read data. If not, it creates a new blank one.
+            sw.Close()
+            MsgBox("A new database has been created", vbExclamation, "Warning!")
+        End If
+    End Sub
+End Class
