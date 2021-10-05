@@ -6,7 +6,7 @@ It has the following features:
 
 * Administrator can add, edit, delete student, teacher, room, lesson and enrolment records. View everyone's timetables.
 * ![image](https://user-images.githubusercontent.com/65255238/136080548-d2f71f01-6b21-4829-8913-fa4468984937.png)
-* ![image](https://user-images.githubusercontent.com/65255238/136080675-f81c316d-0459-4dba-a5f1-af62c908dc95.png)
+* ![image](https://user-images.githubusercontent.com/65255238/136080936-27d15888-b3ce-481b-bba0-6ce13286733b.png)
 
 * Students and teachers can login and view their own timetable.
 * ![image](https://user-images.githubusercontent.com/65255238/136080623-d0def606-9a12-4581-b159-04b8ab28e37c.png)
